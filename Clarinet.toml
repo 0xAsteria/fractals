@@ -1,0 +1,19 @@
+[project]
+name = "fractal"
+authors = ["asteria.id"]
+description = ""
+telemetry = false
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.fractal]
+path = "contracts/fractal.clar"
+depends_on = ["sip9"]
+
+[contracts.sip9]
+path = "contracts/sip9.clar"
+depends_on = []
+
+[contracts.test-nft]
+path = "contracts/test-nft.clar"
+depends_on = ["sip9"]
