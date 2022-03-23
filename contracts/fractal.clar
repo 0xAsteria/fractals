@@ -2,9 +2,8 @@
 ;; @version 1.8
 ;; @author asteria.id
 
-;; all rights reserved (c) 2022 to the above author.
-;; this code will be relicensed under a more permissive 
-;; license on mainnet launch, by asteria.id
+;; This contract is licensed under GNU GPLv3 available here: 
+;;   https://www.gnu.org/licenses/gpl-3.0.html
 
 ;; asteria.id means the owner of the Stacks mainnet BNS name `asteria.id'
 ;; as of this writing, the Stacks address of said owner is:
